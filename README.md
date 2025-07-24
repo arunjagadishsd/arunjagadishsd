@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 👋 Hi, I'm Arun Jagadish
 
 ### Technical Lead & Project Manager • Architecting Scalable Solutions • Modernizing Legacy Systems
@@ -82,5 +81,3 @@ I'm a hands-on Technical Lead and Project Manager based in Chennai, India, with 
 ---
 
 > Passionate about building scalable, reliable solutions and leading teams to deliver real-world impact.
-
-````
